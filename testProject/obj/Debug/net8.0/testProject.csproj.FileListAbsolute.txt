@@ -1,0 +1,15 @@
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\bin\Debug\net8.0\testProject.exe
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\bin\Debug\net8.0\testProject.deps.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\bin\Debug\net8.0\testProject.runtimeconfig.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\bin\Debug\net8.0\testProject.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\bin\Debug\net8.0\testProject.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\obj\Debug\net8.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\obj\Debug\net8.0\testProject.AssemblyInfoInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\obj\Debug\net8.0\testProject.AssemblyInfo.cs
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\obj\Debug\net8.0\testProject.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\obj\Debug\net8.0\testProject.sourcelink.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\obj\Debug\net8.0\testProject.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\obj\Debug\net8.0\refint\testProject.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\obj\Debug\net8.0\testProject.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\obj\Debug\net8.0\testProject.genruntimeconfig.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\testProject\obj\Debug\net8.0\ref\testProject.dll
