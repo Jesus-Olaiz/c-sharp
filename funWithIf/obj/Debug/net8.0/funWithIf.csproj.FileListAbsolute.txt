@@ -1,0 +1,15 @@
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\bin\Debug\net8.0\funWithIf.exe
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\bin\Debug\net8.0\funWithIf.deps.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\bin\Debug\net8.0\funWithIf.runtimeconfig.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\bin\Debug\net8.0\funWithIf.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\bin\Debug\net8.0\funWithIf.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\obj\Debug\net8.0\funWithIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\obj\Debug\net8.0\funWithIf.AssemblyInfoInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\obj\Debug\net8.0\funWithIf.AssemblyInfo.cs
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\obj\Debug\net8.0\funWithIf.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\obj\Debug\net8.0\funWithIf.sourcelink.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\obj\Debug\net8.0\funWithIf.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\obj\Debug\net8.0\refint\funWithIf.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\obj\Debug\net8.0\funWithIf.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\obj\Debug\net8.0\funWithIf.genruntimeconfig.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\funWithIf\obj\Debug\net8.0\ref\funWithIf.dll

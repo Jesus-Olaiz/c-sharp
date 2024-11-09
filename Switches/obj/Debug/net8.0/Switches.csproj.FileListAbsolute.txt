@@ -1,0 +1,15 @@
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\bin\Debug\net8.0\Switches.exe
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\bin\Debug\net8.0\Switches.deps.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\bin\Debug\net8.0\Switches.runtimeconfig.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\bin\Debug\net8.0\Switches.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\bin\Debug\net8.0\Switches.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\obj\Debug\net8.0\Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\obj\Debug\net8.0\Switches.AssemblyInfoInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\obj\Debug\net8.0\Switches.AssemblyInfo.cs
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\obj\Debug\net8.0\Switches.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\obj\Debug\net8.0\Switches.sourcelink.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\obj\Debug\net8.0\Switches.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\obj\Debug\net8.0\refint\Switches.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\obj\Debug\net8.0\Switches.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\obj\Debug\net8.0\Switches.genruntimeconfig.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\switches\obj\Debug\net8.0\ref\Switches.dll

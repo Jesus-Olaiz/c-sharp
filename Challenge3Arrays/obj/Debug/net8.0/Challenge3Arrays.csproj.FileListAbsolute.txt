@@ -1,0 +1,15 @@
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\obj\Debug\net8.0\Challenge3Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\obj\Debug\net8.0\Challenge3Arrays.AssemblyInfoInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\obj\Debug\net8.0\Challenge3Arrays.AssemblyInfo.cs
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\obj\Debug\net8.0\Challenge3Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\obj\Debug\net8.0\Challenge3Arrays.sourcelink.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\bin\Debug\net8.0\Challenge3Arrays.exe
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\bin\Debug\net8.0\Challenge3Arrays.deps.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\bin\Debug\net8.0\Challenge3Arrays.runtimeconfig.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\bin\Debug\net8.0\Challenge3Arrays.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\bin\Debug\net8.0\Challenge3Arrays.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\obj\Debug\net8.0\Challenge3Arrays.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\obj\Debug\net8.0\refint\Challenge3Arrays.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\obj\Debug\net8.0\Challenge3Arrays.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\obj\Debug\net8.0\Challenge3Arrays.genruntimeconfig.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\Challenge3Arrays\obj\Debug\net8.0\ref\Challenge3Arrays.dll

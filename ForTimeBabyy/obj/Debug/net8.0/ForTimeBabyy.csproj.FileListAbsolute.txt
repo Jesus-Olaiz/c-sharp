@@ -1,0 +1,15 @@
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\bin\Debug\net8.0\ForTimeBabyy.exe
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\bin\Debug\net8.0\ForTimeBabyy.deps.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\bin\Debug\net8.0\ForTimeBabyy.runtimeconfig.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\bin\Debug\net8.0\ForTimeBabyy.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\bin\Debug\net8.0\ForTimeBabyy.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\obj\Debug\net8.0\ForTimeBabyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\obj\Debug\net8.0\ForTimeBabyy.AssemblyInfoInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\obj\Debug\net8.0\ForTimeBabyy.AssemblyInfo.cs
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\obj\Debug\net8.0\ForTimeBabyy.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\obj\Debug\net8.0\ForTimeBabyy.sourcelink.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\obj\Debug\net8.0\ForTimeBabyy.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\obj\Debug\net8.0\refint\ForTimeBabyy.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\obj\Debug\net8.0\ForTimeBabyy.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\obj\Debug\net8.0\ForTimeBabyy.genruntimeconfig.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ForTimeBabyy\obj\Debug\net8.0\ref\ForTimeBabyy.dll

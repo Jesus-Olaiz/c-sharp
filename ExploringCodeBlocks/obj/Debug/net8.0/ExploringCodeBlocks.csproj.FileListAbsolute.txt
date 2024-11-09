@@ -1,0 +1,15 @@
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\obj\Debug\net8.0\ExploringCodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\obj\Debug\net8.0\ExploringCodeBlocks.AssemblyInfoInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\obj\Debug\net8.0\ExploringCodeBlocks.AssemblyInfo.cs
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\obj\Debug\net8.0\ExploringCodeBlocks.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\obj\Debug\net8.0\ExploringCodeBlocks.sourcelink.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\bin\Debug\net8.0\ExploringCodeBlocks.exe
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\bin\Debug\net8.0\ExploringCodeBlocks.deps.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\bin\Debug\net8.0\ExploringCodeBlocks.runtimeconfig.json
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\bin\Debug\net8.0\ExploringCodeBlocks.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\bin\Debug\net8.0\ExploringCodeBlocks.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\obj\Debug\net8.0\ExploringCodeBlocks.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\obj\Debug\net8.0\refint\ExploringCodeBlocks.dll
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\obj\Debug\net8.0\ExploringCodeBlocks.pdb
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\obj\Debug\net8.0\ExploringCodeBlocks.genruntimeconfig.cache
+C:\Users\Jesus Olaiz\Desktop\Coding\c-sharp\ExploringCodeBlocks\obj\Debug\net8.0\ref\ExploringCodeBlocks.dll
